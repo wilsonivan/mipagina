@@ -1,0 +1,149 @@
+ *{
+    background-color: cyan;
+    box-sizing: border-box;
+}
+#texto1 {
+    padding: 60px 20px 10px 20px;
+    border: 3px solid green;
+    font-size:18px;
+    background-color:orange;
+    color:yellow;
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  #texto2 {
+    padding: 60px 20px 10px 20px;
+    border: 3px solid green;
+    font-size:18px;
+    background-color:orange;
+    color:yellow;
+    font-weight: bold;
+    font-style: italic;
+  }
+
+   #texto3 {
+    padding: 60px 20px 10px 20px;
+    border: 3px solid green;
+    font-size:18px;
+    background-color:orange;
+    color:yellow;
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  #highlight1 {
+     
+    background-color: #DDFF33;
+    border: 4px solid black;
+    font-size:24px;
+    font-weight: bold;
+    font-color:black;
+    font-style: italic;
+    float: center;
+    padding: 10px 30px 10px 30px;
+
+  }
+   	 #highlight2 {
+   
+    background-color: #DDFF33;
+    border: 4px solid black;
+    font-size:24px;
+    font-weight: bold;
+    font-color:black;
+    font-style: italic;
+    float: center;
+    padding: 10px 30px 10px 30px;
+    }
+
+    	 #highlight3 {
+     
+    background-color: #DDFF33;
+    border: 4px solid black;
+    font-size:24px;
+    font-weight: bold;
+    font-color:black;
+    font-style: italic;
+    float: center;
+    padding: 10px 30px 10px 30px;
+    }
+
+    	 #highlight4 {
+     
+    background-color: #DDFF33;
+    border: 4px solid black;
+    font-size:24px;
+    font-weight: bold;
+    font-color:black;
+    font-style: italic;
+    float: center;
+    padding: 10px 30px 10px 30px;
+    }
+
+    	 #highlight5 {
+     
+    background-color: #DDFF33;
+    border: 4px solid black;
+    font-size:24px;
+    font-weight: bold;
+    font-color: black;
+    font-style: italic;
+    float: center;
+    padding: 10px 30px 10px 30px;
+    }
+
+    #titulo1 {
+    font-size:25px;
+    color:teal;
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  #titulo2 {
+    font-size:25px;
+    color:teal;
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  #titulo3 {
+    font-size:25px;
+    color:teal;
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  #titulo4 {
+    font-size:25px;
+    color:teal;
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  #titulo5 {
+    font-size:25px;
+    color:teal;
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  #titulo6 {
+    font-size:25px;
+    color:teal;
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  #titulo7 {
+    font-size:25px;
+    color:teal;
+    font-weight: bold;
+    font-style: italic;
+  }
+
+  #titulo8 {
+    font-size:25px;
+    color:teal;
+    font-weight: bold;
+    font-style: italic;
+  }
